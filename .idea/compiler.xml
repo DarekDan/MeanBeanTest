@@ -10,5 +10,8 @@
         <module name="MeanBean" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="MeanBean" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
